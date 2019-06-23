@@ -119,3 +119,10 @@ $(document).ready(function() {
         $(".menu").slideToggle("slow");
     });
 });
+//通知
+function b3a() {
+  alert("已加入追蹤");
+};
+function b2a() {
+  alert("感謝您，已加入購物車");
+};
